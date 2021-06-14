@@ -7,3 +7,4 @@ teste GitRobot
 3º git commit -m "Uma mensagem explicativa"     (para efetivar a alteração)
 4º git push
 
+teste

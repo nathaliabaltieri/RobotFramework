@@ -6,3 +6,4 @@ teste GitRobot
 2º git add .    (para adicionar as modificações)
 3º git commit -m "Uma mensagem explicativa"     (para efetivar a alteração)
 4º git push
+

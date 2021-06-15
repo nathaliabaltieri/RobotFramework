@@ -7,4 +7,6 @@ teste GitRobot
 3º git commit -m "Uma mensagem explicativa"     (para efetivar a alteração)
 4º git push
 
-teste
+- Set test Variable = faz com que todas as KWs do teste enxerguem a variável
+- Set suite Variable = faz com que todos os testes da suíte enxerguem a variável
+- Set Global Variable = faz com que todas suítes da execução enxerguem a variável!
